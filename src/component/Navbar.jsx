@@ -23,6 +23,7 @@ const Navbar = () => {
                     <span className='text-[#8245ec]'>/</span>
                     <span className='text-[#8245ec]'>&gt;</span>
                 </div>
+                <div className="menu_items"></div>
                 <div className='flex space-x-5'>
                     <FaGithub className='text-[#FFFFFF] text-xl' />
                     <FaLinkedin className='text-[#FFFFFF] text-xl' />
